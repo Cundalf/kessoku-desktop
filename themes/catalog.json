@@ -1,0 +1,62 @@
+{
+  "yui": {
+    "name": "Yui Hirasawa",
+    "scheme": "KessokuYui",
+    "accent": "#e8a096",
+    "wallpaper": "themes/yui/wallpaper-4k.png"
+  },
+  "mio": {
+    "name": "Mio Akiyama",
+    "scheme": "KessokuMio",
+    "accent": "#9ab8df",
+    "wallpaper": "themes/mio/wallpaper-4k.png"
+  },
+  "ritsu": {
+    "name": "Ritsu Tainaka",
+    "scheme": "KessokuRitsu",
+    "accent": "#dfbb82",
+    "wallpaper": "themes/ritsu/wallpaper-4k.png"
+  },
+  "tsumugi": {
+    "name": "Tsumugi Kotobuki",
+    "scheme": "KessokuTsumugi",
+    "accent": "#bfb0e4",
+    "wallpaper": "themes/tsumugi/wallpaper-4k.png"
+  },
+  "bocchi": {
+    "name": "Hitori Gotoh · Bocchi",
+    "scheme": "KessokuBocchi",
+    "accent": "#e8acd1",
+    "wallpaper": "themes/bocchi/wallpaper-4k.png"
+  },
+  "nijika": {
+    "name": "Nijika Ijichi",
+    "scheme": "KessokuNijika",
+    "accent": "#e2c780",
+    "wallpaper": "themes/nijika/wallpaper-4k.png"
+  },
+  "ryo": {
+    "name": "Ryo Yamada",
+    "scheme": "KessokuRyo",
+    "accent": "#8fb9d3",
+    "wallpaper": "themes/ryo/wallpaper-4k.png"
+  },
+  "kita": {
+    "name": "Ikuyo Kita",
+    "scheme": "KessokuKita",
+    "accent": "#e59a9d",
+    "wallpaper": "themes/kita/wallpaper-4k.png"
+  },
+  "kikuri": {
+    "name": "Kikuri Hiroi",
+    "scheme": "KessokuKikuri",
+    "accent": "#d49abf",
+    "wallpaper": "themes/kikuri/wallpaper-4k.png"
+  },
+  "base": {
+    "name": "Kessoku original",
+    "scheme": "KessokuComfort",
+    "accent": "#a79bc2",
+    "wallpaper": "assets/wallpapers/kessoku-stage-4k.png"
+  }
+}

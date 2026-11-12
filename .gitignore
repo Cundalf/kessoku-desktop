@@ -1,0 +1,15 @@
+# Copias privadas del escritorio y estado de la máquina
+/backups/
+/downloads/
+/tools/
+# Intermedios de reescalado; se publican originales, 4K y QHD
+/themes/*/wallpaper-ai4x.png
+/assets/wallpapers/*ai4x*.png
+/assets/wallpapers/*4x*.png
+/assets/wallpapers/variants/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+.DS_Store

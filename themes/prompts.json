@@ -1,0 +1,12 @@
+{
+  "tool": "imagegen integrada",
+  "kind": "Resumen de las especificaciones de generación; no transcripción literal del prompt expandido",
+  "common": "Anime musical cinematográfico 16:9. Personaje e instrumento a la derecha; 45% izquierdo oscuro y despejado para widgets. Sin texto, logotipos, marcas de agua ni interfaz. Paleta oscura con luces del acento del personaje. Vestimenta cotidiana completa.",
+  "subjects": {
+    "yui": "Yui Hirasawa, pelo castaño corto y dos clips amarillos, guitarra Les Paul sunburst, cardigan y jeans, sala japonesa de ensayo con luces coral y ámbar.",
+    "mio": "Mio Akiyama, pelo negro largo, bajo jazz sunburst de cuatro cuerdas, cardigan negro y jeans, estudio nocturno azul con ventanas a la luna. Se solicitó bajo zurdo; la ilustración generada lo representó diestro.",
+    "ritsu": "Ritsu Tainaka, pelo castaño corto con vincha amarilla, batería ámbar y baquetas, remera de banda y jeans, escenario japonés cálido.",
+    "tsumugi": "Tsumugi Kotobuki, pelo rubio largo, cejas gruesas y ojos azules, teclado profesional y taza de té, cardigan crema y vestido oscuro, estudio con luz lavanda crepuscular.",
+    "kikuri": "Kikuri Hiroi adulta, pelo malva con flequillo y trenza lateral, ojos ámbar, sonrisa relajada con colmillo, vestido oscuro largo, bajo crema de cuatro cuerdas, club underground con luces ciruela y rosa."
+  }
+}

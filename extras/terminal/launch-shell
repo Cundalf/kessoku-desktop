@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+terminal_root=$(dirname "$(readlink -f "$0")")
+export ZDOTDIR="$terminal_root/zsh"
+export STARSHIP_CONFIG="$terminal_root/starship.toml"
+exec /usr/bin/zsh "$@"
